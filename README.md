@@ -24,7 +24,10 @@ Planning, building, shipping, and maintaining your product.
 
 | Name | Description | Type |
 |-------|-------------|------|
-| [gstack](https://github.com/garrytan/gstack) | AI-powered engineering platform with 31 skills for solo builders to ship production code fast | `Skill` |
+| [gstack/plan-ceo-review](https://github.com/garrytan/gstack/blob/main/plan-ceo-review/SKILL.md) | CEO/founder plan review: rethink scope and ambition across 11 dimensions | `Skill` |
+| [gstack/plan-eng-review](https://github.com/garrytan/gstack/blob/main/plan-eng-review/SKILL.md) | Engineering review: architecture, data flow, edge cases, test coverage | `Skill` |
+| [gstack/plan-devex-review](https://github.com/garrytan/gstack/blob/main/plan-devex-review/SKILL.md) | Developer experience review for APIs, CLIs, SDKs, and docs | `Skill` |
+| [gstack/review](https://github.com/garrytan/gstack/blob/main/review/SKILL.md) | Pre-landing PR review: scope drift, SQL safety, trust boundaries | `Skill` |
 | [Superpowers](https://github.com/obra/superpowers) | Agentic skills framework with composable workflows for systematic software development | `Skill` |
 | [App Store Connect CLI Skills](https://github.com/rudrankriyam/app-store-connect-cli-skills) | Agent skills for iOS/macOS app distribution automation (also supports other agent platforms) | `Skill` |
 | [Codex Plugin for Claude Code](https://github.com/openai/codex-plugin-cc) | Integrated Codex code reviews and task delegation without leaving your workflow | `Plugin` |
@@ -44,7 +47,7 @@ SEO, ads, analytics, sales, pricing, and landing pages.
 
 | Name | Description | Type |
 |-------|-------------|------|
-| — | — | — |
+| [gstack/office-hours](https://github.com/garrytan/gstack/blob/main/office-hours/SKILL.md) | YC office hours: startup forcing questions or builder mode design thinking | `Skill` |
 
 ### Content
 
@@ -70,6 +73,11 @@ UI/UX, branding, and visual design.
 | [Algorithmic Art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art) | Create generative art using p5.js with seeded randomness and parameters | `Skill` |
 | [Brand Guidelines](https://github.com/anthropics/skills/tree/main/skills/brand-guidelines) | Apply brand colors, typography, and visual identity standards to artifacts | `Skill` |
 | [Theme Factory](https://github.com/anthropics/skills/tree/main/skills/theme-factory) | Apply or generate themes for artifacts like slides, docs, and more | `Skill` |
+| [gstack/design-consultation](https://github.com/garrytan/gstack/blob/main/design-consultation/SKILL.md) | Build complete design systems with aesthetic, typography, color, and spacing | `Skill` |
+| [gstack/design-html](https://github.com/garrytan/gstack/blob/main/design-html/SKILL.md) | Generate production-quality HTML/CSS with responsive reflow and content-aware sizing | `Skill` |
+| [gstack/design-review](https://github.com/garrytan/gstack/blob/main/design-review/SKILL.md) | Visual QA: finds spacing issues, hierarchy problems, AI slop, slow interactions | `Skill` |
+| [gstack/design-shotgun](https://github.com/garrytan/gstack/blob/main/design-shotgun/SKILL.md) | Generate multiple AI design variants side-by-side for visual brainstorming | `Skill` |
+| [gstack/plan-design-review](https://github.com/garrytan/gstack/blob/main/plan-design-review/SKILL.md) | Designer's eye plan review: rate design dimensions 0-10 before implementation | `Skill` |
 
 ### Operations
 
@@ -77,6 +85,8 @@ Automation, scheduling, customer support, finance, and project management.
 
 | Name | Description | Type |
 |-------|-------------|------|
+| [gstack/careful](https://github.com/garrytan/gstack/tree/main/careful) | Safety guardrails for destructive commands (rm -rf, DROP TABLE, force-push) | `Skill` |
+| [gstack/cso](https://github.com/garrytan/gstack/blob/main/cso/SKILL.md) | Chief Security Officer audit: infrastructure, secrets, dependencies, CI/CD, OWASP/STRIDE | `Skill` |
 | [gogcli](https://github.com/steipete/gogcli) | CLI for accessing Google Workspace (Gmail, Drive, Docs, Sheets, Calendar) with JSON output | `CLI` |
 | [DOCX](https://github.com/anthropics/skills/tree/main/skills/docx) | Create, read, edit, or manipulate Word documents with formatting | `Skill` |
 | [PDF](https://github.com/anthropics/skills/tree/main/skills/pdf) | Handle PDF operations: read, merge, split, fill, OCR, encrypt | `Skill` |
