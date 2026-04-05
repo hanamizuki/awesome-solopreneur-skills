@@ -44,7 +44,7 @@ Writing, social media, replies, scheduling, and visuals.
 
 UI/UX, branding, and visual design.
 
-<!-- skills will be added here -->
+- [Impeccable](https://github.com/pbakaus/impeccable) — Design toolkit with 20 slash commands to help AI generate high-quality frontend designs. `Community` `Claude Code`
 
 ### Operations
 
@@ -60,7 +60,7 @@ Automation, scheduling, customer support, finance, and project management.
 
 | Skill | Category | Type |
 |-------|----------|------|
-| — | — | — |
+| [Impeccable](https://github.com/pbakaus/impeccable) | Design | `Community` |
 
 ### OpenClaw Skills
 
