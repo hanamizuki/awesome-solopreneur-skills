@@ -47,7 +47,8 @@ Writing, social media, replies, scheduling, and visuals.
 
 | Skill | Description | Type |
 |-------|-------------|------|
-| — | — | — |
+| [Remotion](https://github.com/remotion-dev/skills/tree/main/skills/remotion) | Create videos programmatically using React with best practices for animations, audio, and effects | `Skill` |
+| [Typefully](https://github.com/typefully/agent-skills/tree/main/skills/typefully) | Create, schedule, and publish social media content across X, LinkedIn, Threads, and more | `Skill` |
 
 ### Design
 
