@@ -40,6 +40,9 @@ Planning, building, shipping, and maintaining your product.
 | [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) | `Skill` Test web apps with Playwright for UI verification and debugging | anthropics |
 | [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) | `Skill` Create and iterate on Claude Code skills | anthropics |
 | [web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) | `Skill` Build complex React/Tailwind artifacts with state management | anthropics |
+| [context7-cli](https://github.com/upstash/context7/tree/master/skills/context7-cli) | `CLI` Fetch docs, manage skills, and configure Context7 MCP for editors | context7 |
+| [context7-mcp](https://github.com/upstash/context7/tree/master/skills/context7-mcp) | `Skill` Get current library docs instead of relying on training data | context7 |
+| [find-docs](https://github.com/upstash/context7/tree/master/skills/find-docs) | `Skill` Retrieve docs, API refs, and code examples for dev tech | context7 |
 
 ### Marketing
 
