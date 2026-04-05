@@ -22,7 +22,7 @@ Whether you're building with [Claude Code](https://docs.anthropic.com/en/docs/cl
 
 Planning, building, shipping, and maintaining your product.
 
-| Skill | Description | Type |
+| Name | Description | Type |
 |-------|-------------|------|
 | [gstack](https://github.com/garrytan/gstack) | AI-powered engineering platform with 31 skills for solo builders to ship production code fast | `Skill` |
 | [Superpowers](https://github.com/obra/superpowers) | Agentic skills framework with composable workflows for systematic software development | `Skill` |
@@ -37,7 +37,7 @@ Planning, building, shipping, and maintaining your product.
 
 SEO, ads, analytics, sales, pricing, and landing pages.
 
-| Skill | Description | Type |
+| Name | Description | Type |
 |-------|-------------|------|
 | — | — | — |
 
@@ -45,7 +45,7 @@ SEO, ads, analytics, sales, pricing, and landing pages.
 
 Writing, social media, replies, scheduling, and visuals.
 
-| Skill | Description | Type |
+| Name | Description | Type |
 |-------|-------------|------|
 | [Remotion](https://github.com/remotion-dev/skills/tree/main/skills/remotion) | Create videos programmatically using React with best practices for animations, audio, and effects | `Skill` |
 | [Typefully](https://github.com/typefully/agent-skills/tree/main/skills/typefully) | Create, schedule, and publish social media content across X, LinkedIn, Threads, and more | `Skill` |
@@ -54,7 +54,7 @@ Writing, social media, replies, scheduling, and visuals.
 
 UI/UX, branding, and visual design.
 
-| Skill | Description | Type |
+| Name | Description | Type |
 |-------|-------------|------|
 | [Impeccable](https://github.com/pbakaus/impeccable) | Design toolkit with 20 slash commands to help AI generate high-quality frontend designs | `Skill` |
 
@@ -62,7 +62,7 @@ UI/UX, branding, and visual design.
 
 Automation, scheduling, customer support, finance, and project management.
 
-| Skill | Description | Type |
+| Name | Description | Type |
 |-------|-------------|------|
 | [gogcli](https://github.com/steipete/gogcli) | CLI for accessing Google Workspace (Gmail, Drive, Docs, Sheets, Calendar) with JSON output | `CLI` |
 
@@ -74,7 +74,7 @@ Automation, scheduling, customer support, finance, and project management.
 
 Planning, building, shipping, and maintaining your product.
 
-| Skill | Description | Type |
+| Name | Description | Type |
 |-------|-------------|------|
 | — | — | — |
 
@@ -82,7 +82,7 @@ Planning, building, shipping, and maintaining your product.
 
 SEO, ads, analytics, sales, pricing, and landing pages.
 
-| Skill | Description | Type |
+| Name | Description | Type |
 |-------|-------------|------|
 | — | — | — |
 
@@ -90,7 +90,7 @@ SEO, ads, analytics, sales, pricing, and landing pages.
 
 Writing, social media, replies, scheduling, and visuals.
 
-| Skill | Description | Type |
+| Name | Description | Type |
 |-------|-------------|------|
 | — | — | — |
 
@@ -98,7 +98,7 @@ Writing, social media, replies, scheduling, and visuals.
 
 UI/UX, branding, and visual design.
 
-| Skill | Description | Type |
+| Name | Description | Type |
 |-------|-------------|------|
 | — | — | — |
 
@@ -106,7 +106,7 @@ UI/UX, branding, and visual design.
 
 Automation, scheduling, customer support, finance, and project management.
 
-| Skill | Description | Type |
+| Name | Description | Type |
 |-------|-------------|------|
 | — | — | — |
 
