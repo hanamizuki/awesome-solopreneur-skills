@@ -30,6 +30,7 @@ Planning, building, shipping, and maintaining your product.
 | [Codex Plugin for Claude Code](https://github.com/openai/codex-plugin-cc) | Integrated Codex code reviews and task delegation without leaving your workflow | `Plugin` |
 | [Postgres Best Practices](https://github.com/supabase/agent-skills/tree/main/skills/supabase-postgres-best-practices) | Postgres optimization rules with SQL examples for query performance, indexing, and schema design | `Skill` |
 | [Stripe Best Practices](https://github.com/stripe/ai/tree/main/skills/stripe-best-practices) | Stripe integration best practices for payments, subscriptions, and billing | `Skill` |
+| [Upgrade Stripe](https://github.com/stripe/ai/tree/main/skills/upgrade-stripe) | Automated Stripe SDK version upgrades with migration guidance | `Skill` |
 
 ### Marketing
 
