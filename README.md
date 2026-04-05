@@ -1,22 +1,24 @@
 # Awesome Solopreneur Skills
 
-> A curated collection of AI agent skills for solopreneurs — includes original skills and links to community favorites.
+> A collection of AI agent skills for solopreneurs — original and curated.
 
 Whether you're building with [Claude Code](https://docs.anthropic.com/en/docs/claude-code) or [OpenClaw](https://github.com/openclaw/openclaw), this repo helps you find skills that handle the many hats a solopreneur wears.
 
 ## What's Inside
 
-- **Original skills** — battle-tested skills from real solopreneur workflows, with source code
-- **Curated links** — handpicked community skills worth using
-
-Look for the badges:
+**Source:**
 
 | Badge | Meaning |
 |-------|---------|
 | `Original` | Source code included in this repo |
-| `Community` | Link to external repo |
-| `Claude Code` | Works with Claude Code |
-| `OpenClaw` | Works with OpenClaw |
+| `Curated` | Link to external repo |
+
+**Platform:**
+
+| Badge | Meaning |
+|-------|---------|
+| `Claude Code` | Works with [Claude Code](https://docs.anthropic.com/en/docs/claude-code) |
+| `OpenClaw` | Works with [OpenClaw](https://github.com/openclaw/openclaw) |
 
 ---
 
@@ -50,7 +52,7 @@ UI/UX, branding, and visual design.
 
 | Skill | Description | Platform | Type |
 |-------|-------------|----------|------|
-| [Impeccable](https://github.com/pbakaus/impeccable) | Design toolkit with 20 slash commands to help AI generate high-quality frontend designs | Claude Code | `Community` |
+| [Impeccable](https://github.com/pbakaus/impeccable) | Design toolkit with 20 slash commands to help AI generate high-quality frontend designs | Claude Code | `Curated` |
 
 ## Operations
 
@@ -72,7 +74,7 @@ skills/
     skill-name/
 ```
 
-Original skills live under `skills/`. Curated community skills are linked in the README above.
+Original skills live under `skills/`. Curated skills are linked in the README above.
 
 ## Contributing
 
