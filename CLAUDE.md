@@ -2,7 +2,7 @@
 
 ## About
 
-This is an open-source curated + original skill collection for solopreneurs.
+This is a curated collection of AI agent skills for solopreneurs.
 All comments, docs, and code should be in English (repo has LICENSE file).
 
 ## Adding Skills
@@ -13,6 +13,7 @@ When the user shares a skill (URL or name), follow this process:
 2. **Classify** — Determine:
    - **Platform:** `Claude Code` or `OpenClaw` (determines which section in README)
    - **Type:** `Skill` (installable skill), `Plugin` (extension/integration), or `CLI` (command-line tool)
+   - **Provider:** GitHub org or username (e.g. anthropics, gstack, stripe)
 3. **Categorize** — Pick the best function category:
    - `Build` — Planning, building, shipping, maintaining products
    - `Marketing` — SEO, ads, analytics, sales, pricing, landing pages
@@ -21,25 +22,15 @@ When the user shares a skill (URL or name), follow this process:
    - `Operations` — Automation, scheduling, customer support, finance, project management
 4. **Add to README.md** — Insert a row in the correct platform section + category table:
    ```
-   | [Name](url) | One-line description | `Type` |
+   | [name](url) | `Type` Description | provider |
    ```
-5. **If Original** — Also add the skill source code under `skills/claude-code/` or `skills/openclaw/`. Strip private config (env vars, API keys, agent-specific logic) from the open-source version.
-6. **Commit and push**
-
-## Repo Structure
-
-```
-README.md              — Main page, skills listed by function category
-CONTRIBUTING.md        — Contribution guidelines
-LICENSE                — MIT
-skills/
-  claude-code/         — Original Claude Code skills (source code)
-  openclaw/            — Original OpenClaw skills (source code)
-```
+5. **Commit and push**
 
 ## Rules
 
 - One skill per table row, keep descriptions under one line
+- Type badge goes at the start of the Description column
 - If a skill fits multiple categories, pick the primary one
 - Empty categories use a placeholder row: `| — | — | — |`
 - Remove placeholder row when adding the first real skill to a category
+- Links should point to GitHub when possible

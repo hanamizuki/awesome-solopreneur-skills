@@ -139,18 +139,6 @@ Automation, scheduling, customer support, finance, and project management.
 
 ---
 
-## Repo Structure
-
-```
-skills/
-  claude-code/        # Claude Code skills (source code)
-    skill-name/
-  openclaw/           # OpenClaw skills (source code)
-    skill-name/
-```
-
-Original skills live under `skills/`. Curated skills are linked in the README above.
-
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on submitting skills or suggesting links.
