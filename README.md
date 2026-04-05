@@ -31,6 +31,7 @@ Planning, building, shipping, and maintaining your product.
 | [Postgres Best Practices](https://github.com/supabase/agent-skills/tree/main/skills/supabase-postgres-best-practices) | Postgres optimization rules with SQL examples for query performance, indexing, and schema design | `Skill` |
 | [Stripe Best Practices](https://github.com/stripe/ai/tree/main/skills/stripe-best-practices) | Stripe integration best practices for payments, subscriptions, and billing | `Skill` |
 | [Upgrade Stripe](https://github.com/stripe/ai/tree/main/skills/upgrade-stripe) | Automated Stripe SDK version upgrades with migration guidance | `Skill` |
+| [React Native Best Practices](https://github.com/callstackincubator/agent-skills/blob/main/skills/react-native-best-practices/SKILL.md) | React Native development best practices for building cross-platform mobile apps | `Skill` |
 
 ### Marketing
 
