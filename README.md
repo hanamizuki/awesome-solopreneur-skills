@@ -20,53 +20,45 @@ Look for the badges:
 
 ---
 
-## By Function
-
-### Development
+## Development
 
 Building, shipping, and maintaining your product.
 
-<!-- skills will be added here -->
+| Skill | Description | Platform | Type |
+|-------|-------------|----------|------|
+| — | — | — | — |
 
-### Marketing
+## Marketing
 
 SEO, ads, analytics, sales, pricing, and landing pages.
 
-<!-- skills will be added here -->
+| Skill | Description | Platform | Type |
+|-------|-------------|----------|------|
+| — | — | — | — |
 
-### Content
+## Content
 
 Writing, social media, replies, scheduling, and visuals.
 
-<!-- skills will be added here -->
+| Skill | Description | Platform | Type |
+|-------|-------------|----------|------|
+| — | — | — | — |
 
-### Design
+## Design
 
 UI/UX, branding, and visual design.
 
-- [Impeccable](https://github.com/pbakaus/impeccable) — Design toolkit with 20 slash commands to help AI generate high-quality frontend designs. `Community` `Claude Code`
+| Skill | Description | Platform | Type |
+|-------|-------------|----------|------|
+| [Impeccable](https://github.com/pbakaus/impeccable) | Design toolkit with 20 slash commands to help AI generate high-quality frontend designs | Claude Code | `Community` |
 
-### Operations
+## Operations
 
 Automation, scheduling, customer support, finance, and project management.
 
-<!-- skills will be added here -->
-
----
-
-## By Platform
-
-### Claude Code Skills
-
-| Skill | Category | Type |
-|-------|----------|------|
-| [Impeccable](https://github.com/pbakaus/impeccable) | Design | `Community` |
-
-### OpenClaw Skills
-
-| Skill | Category | Type |
-|-------|----------|------|
-| — | — | — |
+| Skill | Description | Platform | Type |
+|-------|-------------|----------|------|
+| — | — | — | — |
 
 ---
 
