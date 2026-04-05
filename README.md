@@ -6,19 +6,13 @@ Whether you're building with [Claude Code](https://docs.anthropic.com/en/docs/cl
 
 ## What's Inside
 
-**Source:**
+**Type:**
 
 | Badge | Meaning |
 |-------|---------|
-| `Original` | Source code included in this repo |
-| `Curated` | Link to external repo |
-
-**Platform:**
-
-| Badge | Meaning |
-|-------|---------|
-| `Claude Code` | Works with [Claude Code](https://docs.anthropic.com/en/docs/claude-code) |
-| `OpenClaw` | Works with [OpenClaw](https://github.com/openclaw/openclaw) |
+| `Skill` | Installable skill (slash commands, workflows) |
+| `Plugin` | Extension or integration |
+| `CLI` | Command-line tool |
 
 ---
 
@@ -30,10 +24,10 @@ Planning, building, shipping, and maintaining your product.
 
 | Skill | Description | Type |
 |-------|-------------|------|
-| [gstack](https://github.com/garrytan/gstack) | AI-powered engineering platform with 31 skills for solo builders to ship production code fast | `Curated` |
-| [Superpowers](https://github.com/obra/superpowers) | Agentic skills framework with composable workflows for systematic software development | `Curated` |
-| [App Store Connect CLI Skills](https://github.com/rudrankriyam/app-store-connect-cli-skills) | Agent skills for iOS/macOS app distribution automation (also supports other agent platforms) | `Curated` |
-| [Codex Plugin for Claude Code](https://github.com/openai/codex-plugin-cc) | Integrated Codex code reviews and task delegation without leaving your workflow | `Curated` |
+| [gstack](https://github.com/garrytan/gstack) | AI-powered engineering platform with 31 skills for solo builders to ship production code fast | `Skill` |
+| [Superpowers](https://github.com/obra/superpowers) | Agentic skills framework with composable workflows for systematic software development | `Skill` |
+| [App Store Connect CLI Skills](https://github.com/rudrankriyam/app-store-connect-cli-skills) | Agent skills for iOS/macOS app distribution automation (also supports other agent platforms) | `Skill` |
+| [Codex Plugin for Claude Code](https://github.com/openai/codex-plugin-cc) | Integrated Codex code reviews and task delegation without leaving your workflow | `Plugin` |
 
 ### Marketing
 
@@ -57,7 +51,7 @@ UI/UX, branding, and visual design.
 
 | Skill | Description | Type |
 |-------|-------------|------|
-| [Impeccable](https://github.com/pbakaus/impeccable) | Design toolkit with 20 slash commands to help AI generate high-quality frontend designs | `Curated` |
+| [Impeccable](https://github.com/pbakaus/impeccable) | Design toolkit with 20 slash commands to help AI generate high-quality frontend designs | `Skill` |
 
 ### Operations
 
@@ -65,7 +59,7 @@ Automation, scheduling, customer support, finance, and project management.
 
 | Skill | Description | Type |
 |-------|-------------|------|
-| — | — | — |
+| [gogcli](https://github.com/steipete/gogcli) | CLI for accessing Google Workspace (Gmail, Drive, Docs, Sheets, Calendar) with JSON output | `CLI` |
 
 ---
 
