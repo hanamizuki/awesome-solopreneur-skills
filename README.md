@@ -22,45 +22,91 @@ Whether you're building with [Claude Code](https://docs.anthropic.com/en/docs/cl
 
 ---
 
-## Development
+## Claude Code Skills
+
+### Development
 
 Building, shipping, and maintaining your product.
 
-| Skill | Description | Platform | Type |
-|-------|-------------|----------|------|
-| — | — | — | — |
+| Skill | Description | Type |
+|-------|-------------|------|
+| — | — | — |
 
-## Marketing
+### Marketing
 
 SEO, ads, analytics, sales, pricing, and landing pages.
 
-| Skill | Description | Platform | Type |
-|-------|-------------|----------|------|
-| — | — | — | — |
+| Skill | Description | Type |
+|-------|-------------|------|
+| — | — | — |
 
-## Content
+### Content
 
 Writing, social media, replies, scheduling, and visuals.
 
-| Skill | Description | Platform | Type |
-|-------|-------------|----------|------|
-| — | — | — | — |
+| Skill | Description | Type |
+|-------|-------------|------|
+| — | — | — |
 
-## Design
+### Design
 
 UI/UX, branding, and visual design.
 
-| Skill | Description | Platform | Type |
-|-------|-------------|----------|------|
-| [Impeccable](https://github.com/pbakaus/impeccable) | Design toolkit with 20 slash commands to help AI generate high-quality frontend designs | Claude Code | `Curated` |
+| Skill | Description | Type |
+|-------|-------------|------|
+| [Impeccable](https://github.com/pbakaus/impeccable) | Design toolkit with 20 slash commands to help AI generate high-quality frontend designs | `Curated` |
 
-## Operations
+### Operations
 
 Automation, scheduling, customer support, finance, and project management.
 
-| Skill | Description | Platform | Type |
-|-------|-------------|----------|------|
-| — | — | — | — |
+| Skill | Description | Type |
+|-------|-------------|------|
+| — | — | — |
+
+---
+
+## OpenClaw Skills
+
+### Development
+
+Building, shipping, and maintaining your product.
+
+| Skill | Description | Type |
+|-------|-------------|------|
+| — | — | — |
+
+### Marketing
+
+SEO, ads, analytics, sales, pricing, and landing pages.
+
+| Skill | Description | Type |
+|-------|-------------|------|
+| — | — | — |
+
+### Content
+
+Writing, social media, replies, scheduling, and visuals.
+
+| Skill | Description | Type |
+|-------|-------------|------|
+| — | — | — |
+
+### Design
+
+UI/UX, branding, and visual design.
+
+| Skill | Description | Type |
+|-------|-------------|------|
+| — | — | — |
+
+### Operations
+
+Automation, scheduling, customer support, finance, and project management.
+
+| Skill | Description | Type |
+|-------|-------------|------|
+| — | — | — |
 
 ---
 
