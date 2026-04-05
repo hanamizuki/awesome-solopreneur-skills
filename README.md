@@ -24,9 +24,9 @@ Whether you're building with [Claude Code](https://docs.anthropic.com/en/docs/cl
 
 ## Claude Code
 
-### Development
+### Build
 
-Building, shipping, and maintaining your product.
+Planning, building, shipping, and maintaining your product.
 
 | Skill | Description | Type |
 |-------|-------------|------|
@@ -71,9 +71,9 @@ Automation, scheduling, customer support, finance, and project management.
 
 ## OpenClaw
 
-### Development
+### Build
 
-Building, shipping, and maintaining your product.
+Planning, building, shipping, and maintaining your product.
 
 | Skill | Description | Type |
 |-------|-------------|------|
