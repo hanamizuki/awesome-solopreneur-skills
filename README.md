@@ -33,6 +33,7 @@ Building, shipping, and maintaining your product.
 | [gstack](https://github.com/garrytan/gstack) | AI-powered engineering platform with 31 skills for solo builders to ship production code fast | `Curated` |
 | [Superpowers](https://github.com/obra/superpowers) | Agentic skills framework with composable workflows for systematic software development | `Curated` |
 | [App Store Connect CLI Skills](https://github.com/rudrankriyam/app-store-connect-cli-skills) | Agent skills for iOS/macOS app distribution automation (also supports other agent platforms) | `Curated` |
+| [Codex Plugin for Claude Code](https://github.com/openai/codex-plugin-cc) | Integrated Codex code reviews and task delegation without leaving your workflow | `Curated` |
 
 ### Marketing
 
