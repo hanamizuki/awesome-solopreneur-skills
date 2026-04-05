@@ -22,7 +22,7 @@ Whether you're building with [Claude Code](https://docs.anthropic.com/en/docs/cl
 
 ---
 
-## Claude Code Skills
+## Claude Code
 
 ### Development
 
@@ -69,7 +69,7 @@ Automation, scheduling, customer support, finance, and project management.
 
 ---
 
-## OpenClaw Skills
+## OpenClaw
 
 ### Development
 
