@@ -28,6 +28,7 @@ Planning, building, shipping, and maintaining your product.
 | [Superpowers](https://github.com/obra/superpowers) | Agentic skills framework with composable workflows for systematic software development | `Skill` |
 | [App Store Connect CLI Skills](https://github.com/rudrankriyam/app-store-connect-cli-skills) | Agent skills for iOS/macOS app distribution automation (also supports other agent platforms) | `Skill` |
 | [Codex Plugin for Claude Code](https://github.com/openai/codex-plugin-cc) | Integrated Codex code reviews and task delegation without leaving your workflow | `Plugin` |
+| [Postgres Best Practices](https://officialskills.sh/supabase/skills/postgres-best-practices) | Postgres optimization rules with SQL examples for query performance, indexing, and schema design | `Skill` |
 
 ### Marketing
 
