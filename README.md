@@ -51,6 +51,41 @@ SEO, ads, analytics, sales, pricing, and landing pages.
 | Name | Description | Provider |
 |------|-------------|----------|
 | [office-hours](https://github.com/garrytan/gstack/blob/main/office-hours/SKILL.md) | `Skill` YC office hours: startup forcing questions or builder mode design thinking | gstack |
+| [ab-test-setup](https://github.com/coreyhaines31/marketingskills/tree/main/skills/ab-test-setup) | `Skill` Plan and implement A/B tests with hypothesis frameworks and experimentation programs | coreyhaines31 |
+| [ad-creative](https://github.com/coreyhaines31/marketingskills/tree/main/skills/ad-creative) | `Skill` Generate and iterate ad copy at scale for Google, Meta, LinkedIn, and more | coreyhaines31 |
+| [ai-seo](https://github.com/coreyhaines31/marketingskills/tree/main/skills/ai-seo) | `Skill` Optimize content for AI search engines and LLM citations | coreyhaines31 |
+| [analytics-tracking](https://github.com/coreyhaines31/marketingskills/tree/main/skills/analytics-tracking) | `Skill` Set up and audit analytics tracking with GA4, GTM, Mixpanel, and Segment | coreyhaines31 |
+| [churn-prevention](https://github.com/coreyhaines31/marketingskills/tree/main/skills/churn-prevention) | `Skill` Reduce churn with cancellation flows, save offers, and dunning strategies | coreyhaines31 |
+| [cold-email](https://github.com/coreyhaines31/marketingskills/tree/main/skills/cold-email) | `Skill` Write B2B cold emails and follow-up sequences that get replies | coreyhaines31 |
+| [community-marketing](https://github.com/coreyhaines31/marketingskills/tree/main/skills/community-marketing) | `Skill` Build and leverage online communities for product growth and brand loyalty | coreyhaines31 |
+| [competitor-alternatives](https://github.com/coreyhaines31/marketingskills/tree/main/skills/competitor-alternatives) | `Skill` Create competitor comparison and alternative pages for SEO and sales | coreyhaines31 |
+| [content-strategy](https://github.com/coreyhaines31/marketingskills/tree/main/skills/content-strategy) | `Skill` Plan content strategy with topic clusters, pillars, and editorial calendars | coreyhaines31 |
+| [copy-editing](https://github.com/coreyhaines31/marketingskills/tree/main/skills/copy-editing) | `Skill` Edit, polish, and refresh existing marketing copy | coreyhaines31 |
+| [copywriting](https://github.com/coreyhaines31/marketingskills/tree/main/skills/copywriting) | `Skill` Write persuasive marketing copy for homepages, landing pages, and product pages | coreyhaines31 |
+| [customer-research](https://github.com/coreyhaines31/marketingskills/tree/main/skills/customer-research) | `Skill` Conduct and synthesize customer research from interviews, reviews, and forums | coreyhaines31 |
+| [email-sequence](https://github.com/coreyhaines31/marketingskills/tree/main/skills/email-sequence) | `Skill` Create email drip campaigns, welcome series, and lifecycle automation | coreyhaines31 |
+| [form-cro](https://github.com/coreyhaines31/marketingskills/tree/main/skills/form-cro) | `Skill` Optimize lead capture, contact, and demo request forms for conversion | coreyhaines31 |
+| [free-tool-strategy](https://github.com/coreyhaines31/marketingskills/tree/main/skills/free-tool-strategy) | `Skill` Plan free tools (calculators, generators) for lead gen and SEO | coreyhaines31 |
+| [launch-strategy](https://github.com/coreyhaines31/marketingskills/tree/main/skills/launch-strategy) | `Skill` Plan product launches with go-to-market strategy and launch checklists | coreyhaines31 |
+| [lead-magnets](https://github.com/coreyhaines31/marketingskills/tree/main/skills/lead-magnets) | `Skill` Create lead magnets — ebooks, checklists, templates — for email capture | coreyhaines31 |
+| [marketing-ideas](https://github.com/coreyhaines31/marketingskills/tree/main/skills/marketing-ideas) | `Skill` Brainstorm marketing strategies and growth tactics for SaaS products | coreyhaines31 |
+| [marketing-psychology](https://github.com/coreyhaines31/marketingskills/tree/main/skills/marketing-psychology) | `Skill` Apply cognitive biases and behavioral science to marketing | coreyhaines31 |
+| [onboarding-cro](https://github.com/coreyhaines31/marketingskills/tree/main/skills/onboarding-cro) | `Skill` Optimize post-signup onboarding, activation, and time-to-value | coreyhaines31 |
+| [page-cro](https://github.com/coreyhaines31/marketingskills/tree/main/skills/page-cro) | `Skill` Optimize landing pages, homepages, and pricing pages for conversion | coreyhaines31 |
+| [paid-ads](https://github.com/coreyhaines31/marketingskills/tree/main/skills/paid-ads) | `Skill` Plan and optimize paid campaigns on Google, Meta, LinkedIn, and X | coreyhaines31 |
+| [paywall-upgrade-cro](https://github.com/coreyhaines31/marketingskills/tree/main/skills/paywall-upgrade-cro) | `Skill` Optimize in-app paywalls, upgrade screens, and freemium conversion | coreyhaines31 |
+| [popup-cro](https://github.com/coreyhaines31/marketingskills/tree/main/skills/popup-cro) | `Skill` Create and optimize popups, modals, and exit-intent overlays | coreyhaines31 |
+| [pricing-strategy](https://github.com/coreyhaines31/marketingskills/tree/main/skills/pricing-strategy) | `Skill` Design pricing tiers, packaging, and monetization strategy | coreyhaines31 |
+| [product-marketing-context](https://github.com/coreyhaines31/marketingskills/tree/main/skills/product-marketing-context) | `Skill` Create product marketing context docs for positioning and ICP | coreyhaines31 |
+| [programmatic-seo](https://github.com/coreyhaines31/marketingskills/tree/main/skills/programmatic-seo) | `Skill` Build SEO-driven template pages at scale with data | coreyhaines31 |
+| [referral-program](https://github.com/coreyhaines31/marketingskills/tree/main/skills/referral-program) | `Skill` Design referral, affiliate, and ambassador programs | coreyhaines31 |
+| [revops](https://github.com/coreyhaines31/marketingskills/tree/main/skills/revops) | `Skill` Set up revenue operations, lead scoring, and marketing-to-sales handoff | coreyhaines31 |
+| [sales-enablement](https://github.com/coreyhaines31/marketingskills/tree/main/skills/sales-enablement) | `Skill` Create pitch decks, one-pagers, objection docs, and demo scripts | coreyhaines31 |
+| [schema-markup](https://github.com/coreyhaines31/marketingskills/tree/main/skills/schema-markup) | `Skill` Add and optimize JSON-LD structured data for rich search results | coreyhaines31 |
+| [seo-audit](https://github.com/coreyhaines31/marketingskills/tree/main/skills/seo-audit) | `Skill` Audit technical SEO, on-page issues, and ranking diagnostics | coreyhaines31 |
+| [signup-flow-cro](https://github.com/coreyhaines31/marketingskills/tree/main/skills/signup-flow-cro) | `Skill` Optimize signup, registration, and trial activation flows | coreyhaines31 |
+| [site-architecture](https://github.com/coreyhaines31/marketingskills/tree/main/skills/site-architecture) | `Skill` Plan website hierarchy, navigation, URL structure, and internal linking | coreyhaines31 |
+| [social-content](https://github.com/coreyhaines31/marketingskills/tree/main/skills/social-content) | `Skill` Create and optimize social media content for LinkedIn, X, and more | coreyhaines31 |
 
 ### Content
 
