@@ -18,6 +18,14 @@ Whether you're building with [Claude Code](https://docs.anthropic.com/en/docs/cl
 
 ## Claude Code
 
+### Strategy
+
+Business strategy, positioning, and founder decision-making.
+
+| Name | Description | Provider |
+|------|-------------|----------|
+| [office-hours](https://github.com/garrytan/gstack/blob/main/office-hours/SKILL.md) | `Skill` YC office hours: startup forcing questions or builder mode design thinking | gstack |
+
 ### Build
 
 Planning, building, shipping, and maintaining your product.
@@ -28,7 +36,7 @@ Planning, building, shipping, and maintaining your product.
 | [plan-eng-review](https://github.com/garrytan/gstack/blob/main/plan-eng-review/SKILL.md) | `Skill` Engineering review: architecture, data flow, edge cases, test coverage | gstack |
 | [plan-devex-review](https://github.com/garrytan/gstack/blob/main/plan-devex-review/SKILL.md) | `Skill` Developer experience review for APIs, CLIs, SDKs, and docs | gstack |
 | [review](https://github.com/garrytan/gstack/blob/main/review/SKILL.md) | `Skill` Pre-landing PR review: scope drift, SQL safety, trust boundaries | gstack |
-| [Superpowers](https://github.com/obra/superpowers) | `Skill` Agentic skills framework with composable workflows for systematic software development | obra |
+| [Superpowers](https://github.com/obra/superpowers) | `Plugin` Agentic skills framework with composable workflows for systematic software development | obra |
 | [App Store Connect CLI Skills](https://github.com/rudrankriyam/app-store-connect-cli-skills) | `Skill` Agent skills for iOS/macOS app distribution automation (also supports other agent platforms) | rudrankriyam |
 | [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | `Plugin` Integrated Codex code reviews and task delegation without leaving your workflow | openai |
 | [postgres-best-practices](https://github.com/supabase/agent-skills/tree/main/skills/supabase-postgres-best-practices) | `Skill` Postgres optimization rules with SQL examples for query performance, indexing, and schema design | supabase |
@@ -50,7 +58,6 @@ SEO, ads, analytics, sales, pricing, and landing pages.
 
 | Name | Description | Provider |
 |------|-------------|----------|
-| [office-hours](https://github.com/garrytan/gstack/blob/main/office-hours/SKILL.md) | `Skill` YC office hours: startup forcing questions or builder mode design thinking | gstack |
 | [ab-test-setup](https://github.com/coreyhaines31/marketingskills/tree/main/skills/ab-test-setup) | `Skill` Plan and implement A/B tests with hypothesis frameworks and experimentation programs | coreyhaines31 |
 | [ad-creative](https://github.com/coreyhaines31/marketingskills/tree/main/skills/ad-creative) | `Skill` Generate and iterate ad copy at scale for Google, Meta, LinkedIn, and more | coreyhaines31 |
 | [ai-seo](https://github.com/coreyhaines31/marketingskills/tree/main/skills/ai-seo) | `Skill` Optimize content for AI search engines and LLM citations | coreyhaines31 |
@@ -105,7 +112,7 @@ UI/UX, branding, and visual design.
 
 | Name | Description | Provider |
 |------|-------------|----------|
-| [Impeccable](https://github.com/pbakaus/impeccable) | `Skill` Design toolkit with 20 slash commands to help AI generate high-quality frontend designs | pbakaus |
+| [Impeccable](https://github.com/pbakaus/impeccable) | `Plugin` Design toolkit with 20 slash commands to help AI generate high-quality frontend designs | pbakaus |
 | [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) | `Skill` Build production-grade frontend interfaces with high design quality | anthropics |
 | [canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design) | `Skill` Design museum-quality visual art in PNG/PDF with design philosophy | anthropics |
 | [algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art) | `Skill` Create generative art using p5.js with seeded randomness and parameters | anthropics |
