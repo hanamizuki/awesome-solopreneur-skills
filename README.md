@@ -53,6 +53,7 @@ Planning, building, shipping, and maintaining your product.
 | [find-docs](https://github.com/upstash/context7/tree/master/skills/find-docs) | `Skill` Retrieve docs, API refs, and code examples for dev tech | context7 |
 
 ### Marketing
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser invoice/quote/rate tools for freelancers + $1 PayPal.me unlock for bilingual WhatsApp close pack (EN/AR).
 
 SEO, ads, analytics, sales, pricing, and landing pages.
 
