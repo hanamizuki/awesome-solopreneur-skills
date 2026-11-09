@@ -25,6 +25,7 @@ Business strategy, positioning, and founder decision-making.
 | Name | Description | Provider |
 |------|-------------|----------|
 | [office-hours](https://github.com/garrytan/gstack/blob/main/office-hours/SKILL.md) | `Skill` YC office hours: startup forcing questions or builder mode design thinking | gstack |
+| [EarlyLore Product & Design Architect](https://earlylore.com/skill.md) | `Skill` Ground idea→MVP work in live competitor research, pricing benchmarks, and Design DNA via EarlyLore MCP | EarlyLore |
 
 ### Build
 
